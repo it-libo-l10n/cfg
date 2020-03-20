@@ -512,8 +512,8 @@
       <tuv lang="EN">
         <seg>For example, you define automatically green highlighting of cells, if cell value is between 80 and 100; or green highlight cell if there is word “Russia” and red highlight if there is word “USA” in cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200309T172528Z" creationid="luke" creationdate="20200309T112920Z">
-        <seg>aaaaaaaaaaaaaaaaAd esempio, potete stabilire che le celle siano evidenziate in verde se il loro valore è compreso tra 80 e 100; oppure che siano evidenziate in verde se contengono la parola “Russia” ed in rosso se contengono la parola “USA”.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200320T111044Z" creationid="luke" creationdate="20200309T112920Z">
+        <seg>aaaaaaaaaaaaAd esempio, potete stabilire che le celle siano evidenziate in verde se il loro valore è compreso tra 80 e 100; oppure che siano evidenziate in verde se contengono la parola “Russia” ed in rosso se contengono la parola “USA”.</seg>
       </tuv>
     </tu>
     <tu>
