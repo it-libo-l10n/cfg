@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T080725Z" creationid="luke" creationdate="20200303T080725Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>10</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T100337Z" creationid="luke" creationdate="20200303T100337Z">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>15</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T103447Z" creationid="luke" creationdate="20200303T103447Z">
+        <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>19</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T103828Z" creationid="luke" creationdate="20200303T103828Z">
+        <seg>19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T080747Z" creationid="luke" creationdate="20200303T080747Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>22</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T104004Z" creationid="luke" creationdate="20200303T104004Z">
+        <seg>22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>23</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T104055Z" creationid="luke" creationdate="20200303T104055Z">
+        <seg>23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>25</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T075837Z" creationid="luke" creationdate="20200303T075837Z">
+        <seg>25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>26</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T104158Z" creationid="luke" creationdate="20200303T104158Z">
+        <seg>26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T080745Z" creationid="luke" creationdate="20200303T080745Z">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T080754Z" creationid="luke" creationdate="20200303T080754Z">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T084301Z" creationid="luke" creationdate="20200303T084301Z">
+        <seg>3.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T090834Z" creationid="luke" creationdate="20200303T090834Z">
+        <seg>3.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T090913Z" creationid="luke" creationdate="20200303T090913Z">
+        <seg>3.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T080753Z" creationid="luke" creationdate="20200303T080753Z">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T100024Z" creationid="luke" creationdate="20200303T100024Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T080757Z" creationid="luke" creationdate="20200303T080757Z">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T100307Z" creationid="luke" creationdate="20200303T100307Z">
+        <seg>5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T100357Z" creationid="luke" creationdate="20200303T100357Z">
+        <seg>5.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T090912Z" creationid="luke" creationdate="20200303T090912Z">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T103409Z" creationid="luke" creationdate="20200303T103409Z">
+        <seg>6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T103452Z" creationid="luke" creationdate="20200303T103452Z">
+        <seg>6.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T103627Z" creationid="luke" creationdate="20200303T103627Z">
+        <seg>6.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T103831Z" creationid="luke" creationdate="20200303T103831Z">
+        <seg>6.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T104014Z" creationid="luke" creationdate="20200303T104014Z">
+        <seg>6.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T104056Z" creationid="luke" creationdate="20200303T104056Z">
+        <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>8</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T100305Z" creationid="luke" creationdate="20200303T100305Z">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;All name of menu, toolbars, tooltips, dialogue, button and any other elements of GUI are from&lt;/f0&gt; LibreOffice &lt;f1&gt;Calc &lt;/f1&gt;6.0.3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T104208Z" creationid="luke" creationdate="20200303T104208Z">
+        <seg>&lt;f0&gt;All name of menu, toolbars, tooltips, dialogue, button and any other elements of GUI are from&lt;/f0&gt; LibreOffice &lt;f1&gt;Calc &lt;/f1&gt;6.0.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;This guide is intended for LibreOffice Calc users, who wants to use conditional formatting in their work&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T132213Z" creationid="luke" creationdate="20200303T104208Z">
+        <seg>&lt;f0&gt;This guide is intended for LibreOffice Calc users, who wants to use conditional formatting in their work&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Category and types of conditional formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T103444Z" creationid="luke" creationdate="20200303T103444Z">
+        <seg>Categorie e tipi di formattazione condizionata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Category “All cells”.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T103616Z" creationid="luke" creationdate="20200303T103616Z">
+        <seg>Categoria “Tutte le celle”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Category “Cell value is”.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T103826Z" creationid="luke" creationdate="20200303T103826Z">
+        <seg>Categoria “Il valore della cella è”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Category “Date”.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T104054Z" creationid="luke" creationdate="20200303T104054Z">
+        <seg>Categoria “La data è”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Category “Formula is”.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T104003Z" creationid="luke" creationdate="20200303T104003Z">
+        <seg>Categoria “La formula è”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing of conditional formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T090911Z" creationid="luke" creationdate="20200303T090911Z">
+        <seg>Modifica di una formattazione condizionata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conditional Formatting Guide</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T132221Z" creationid="luke" creationdate="20200303T080713Z">
+        <seg>aaaaGuida alla formattazione condizionata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copying of conditional formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T104156Z" creationid="luke" creationdate="20200303T104156Z">
+        <seg>Copia della formattazione condizionata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating of conditional formatting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T090831Z" creationid="luke" creationdate="20200303T084308Z">
+        <seg>Creazione di una formattazione condizionata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating own cell style for conditional formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T100336Z" creationid="luke" creationdate="20200303T100336Z">
+        <seg>Creazione di stili di cella personalizzati da usare per la formattazione condizionata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deleting of existing conditional formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T100022Z" creationid="luke" creationdate="20200303T090950Z">
+        <seg>Eliminazione di una formattazione condizionata esistente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dialog Cell style</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T103407Z" creationid="luke" creationdate="20200303T100359Z">
+        <seg>Finestra di dialogo dello Stile di cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to create, change and delete conditional formatting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T084256Z" creationid="luke" creationdate="20200303T080756Z">
+        <seg>Come creare, modificare ed eliminare formattazioni condizionate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T080752Z" creationid="luke" creationdate="20200303T080752Z">
+        <seg>Introduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Libre&lt;f0&gt;Office&lt;/f0&gt; Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T075934Z" creationid="luke" creationdate="20200303T075934Z">
+        <seg>Libre&lt;f0&gt;Office&lt;/f0&gt; Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preface</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T080739Z" creationid="luke" creationdate="20200303T080739Z">
+        <seg>Prefazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Priority of conditions processing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T100304Z" creationid="luke" creationdate="20200303T100304Z">
+        <seg>Priorità nell'applicazione delle condizioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Several conditions for one cell range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T100151Z" creationid="luke" creationdate="20200303T100151Z">
+        <seg>Più formattazioni condizionate per un unico intervallo di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table of contents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T080722Z" creationid="luke" creationdate="20200303T075842Z">
+        <seg>Indice generale</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

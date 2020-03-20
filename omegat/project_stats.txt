@@ -1,0 +1,14 @@
+20/03/20 11.27
+Statistiche del progetto
+
+                 	Segmenti	Parole	Caratteri (senza spazi)	Caratteri (con spazi)	#File	
+Totali:          	     529	  5595	                  25906	                30813	    1	
+Restanti:        	     442	  5009	                  22833	                27253	    1	
+Univoci:         	     448	  5169	                  23925	                28485	    1	
+Univoci restanti:	     372	  4612	                  21027	                25118	    1	
+
+
+Statistiche file singoli:
+
+Nome del file                                         	Segmenti totali	Segmenti restanti	Segmenti univoci	Segmenti univoci restanti	Parole totali	Parole restanti	Parole univoche	Parole univoche restanti	Caratteri totali (senza spazi)	Caratteri restanti (senza spazi)	Caratteri univoci (senza spazi)	Caratteri univoci restanti (senza spazi)	Caratteri totali (con spazi)	Caratteri restanti (con spazi)	Caratteri univoci (con spazi)	Caratteri univoci restanti (con spazi)	
+LibreOffice_Calc_-_Conditional_formatting_guide_EN.odt	            529	              442	             448	                      372	         5595	           5009	           5169	                    4612	                         25906	                           22833	                          23925	                                   21027	                       30813	                         27253	                        28485	                                 25118	

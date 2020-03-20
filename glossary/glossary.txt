@@ -1,0 +1,16 @@
+Drawing toolbar	barra degli strumenti Disegno	Voce UI
+attach	collegare
+reminders	solleciti
+reminder	sollecito
+storage space	spazio su disco
+foreign key	chiave esterna	foreign key
+unsatisfactory	scadente	unsatisfactory
+listbox	lista di scelta	listbox
+listboxes	liste di scelta
+Data to Fields	Dati in campi	Voce UI
+listboxes	caselle di riepilogo
+listbox	casella di riepilogo
+multi-user	multiutente
+OBJECT	OBJECT
+IF	IF
+combobox	casella combinata
