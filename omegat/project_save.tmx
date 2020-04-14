@@ -352,8 +352,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;So, by using conditional formatting, it allows user to forget about formatting of cells when changing values in cells, LibreOffice Calc takes care of changing cell format itself&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200414T123515Z" creationid="luke" creationdate="20200414T123515Z">
-        <seg>aaaa&lt;f0&gt;So, by using conditional formatting, it allows user to forget about formatting of cells when changing values in cells, LibreOffice Calc takes care of changing cell format itself&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200414T144855Z" creationid="luke" creationdate="20200414T123515Z">
+        <seg>&lt;f0&gt;Quindi, usando la formattazione condizionale, potrete dimenticarvi della formattazione delle celle quando ne cambiate i valori; LibreOffice Calc si prenderà cura di modificare la formattazione delle celle autonomamente&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
