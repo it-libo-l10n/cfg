@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;So, by using conditional formatting, it allows user to forget about formatting of cells when changing values in cells, LibreOffice Calc takes care of changing cell format itself&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200414T123515Z" creationid="luke" creationdate="20200414T123515Z">
+        <seg>aaaa&lt;f0&gt;So, by using conditional formatting, it allows user to forget about formatting of cells when changing values in cells, LibreOffice Calc takes care of changing cell format itself&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;This guide is intended for LibreOffice Calc users, who wants to use conditional formatting in their work&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20200305T092332Z" creationid="luke" creationdate="20200303T104208Z">
@@ -560,8 +568,8 @@
       <tuv lang="EN">
         <seg>It &lt;/f12&gt;&lt;f13&gt;is&lt;/f13&gt;&lt;f14&gt; need for conditional formatting &lt;/f14&gt;&lt;f15&gt;to work correctly&lt;/f15&gt;&lt;f16&gt;.&lt;/f16&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200414T112320Z" creationid="luke" creationdate="20200414T101846Z">
-        <seg>aaaaIt &lt;/f12&gt;&lt;f13&gt;is&lt;/f13&gt;&lt;f14&gt; need for conditional formatting &lt;/f14&gt;&lt;f15&gt;to work correctly&lt;/f15&gt;&lt;f16&gt;.&lt;/f16&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200414T123511Z" creationid="luke" creationdate="20200414T101846Z">
+        <seg>Questa configurazione &lt;/f12&gt;&lt;f13&gt;è&lt;/f13&gt;&lt;f14&gt; necessaria per il corretto funzionamento della formattazione condizionale&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt;.&lt;/f16&gt;</seg>
       </tuv>
     </tu>
     <tu>
