@@ -280,8 +280,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Attention&lt;/f0&gt;!</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200414T093238Z" creationid="luke" creationdate="20200409T171010Z">
-        <seg>aaaa&lt;f0&gt;Attention&lt;/f0&gt;!</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200414T101844Z" creationid="luke" creationdate="20200409T171010Z">
+        <seg>&lt;f0&gt;Attenzione&lt;/f0&gt;!</seg>
       </tuv>
     </tu>
     <tu>
@@ -314,6 +314,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20200305T101437Z" creationid="luke" creationdate="20200305T101437Z">
         <seg>&lt;f0&gt;Al lettore è richiesta la conoscenza di base dell'uso del computer e dei fogli elettronici&lt;/f0&gt; (&lt;f1&gt;LibreOffice&lt;/f1&gt; Calc, &lt;f2&gt;MS &lt;/f2&gt;Excel, &lt;f3&gt;Gnumeric o qualsiasi altro&lt;/f3&gt;), &lt;f4&gt;e dei&lt;/f4&gt; &lt;f5&gt;termini “Menu principale”, “Foglio”, “Cella”, “Intervallo di celle”, “Indirizzo delle celle”, ecc.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Make sure, that item &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Data&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;►&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Calculate&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;►&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;AutoCalculate&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; is &lt;/f11&gt;&lt;f12&gt;active.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200414T101846Z" creationid="luke" creationdate="20200414T101846Z">
+        <seg>aaaa&lt;f0&gt;Make sure, that item &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Data&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;►&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Calculate&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;►&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;AutoCalculate&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; is &lt;/f11&gt;&lt;f12&gt;active.</seg>
       </tuv>
     </tu>
     <tu>
@@ -546,6 +554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20200303T080752Z" creationid="luke" creationdate="20200303T080752Z">
         <seg>Introduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It &lt;/f12&gt;&lt;f13&gt;is&lt;/f13&gt;&lt;f14&gt; need for conditional formatting &lt;/f14&gt;&lt;f15&gt;to work correctly&lt;/f15&gt;&lt;f16&gt;.&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200414T101846Z" creationid="luke" creationdate="20200414T101846Z">
+        <seg>It &lt;/f12&gt;&lt;f13&gt;is&lt;/f13&gt;&lt;f14&gt; need for conditional formatting &lt;/f14&gt;&lt;f15&gt;to work correctly&lt;/f15&gt;&lt;f16&gt;.&lt;/f16&gt;</seg>
       </tuv>
     </tu>
     <tu>
