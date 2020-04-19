@@ -376,8 +376,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;To create conditional formatting follow each of next steps&lt;/f0&gt;:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200414T154433Z" creationid="luke" creationdate="20200414T154433Z">
-        <seg>&lt;f0&gt;To create conditional formatting follow each of next steps&lt;/f0&gt;:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200419T171415Z" creationid="luke" creationdate="20200414T154433Z">
+        <seg>aaaa&lt;f0&gt;To create conditional formatting follow each of next steps&lt;/f0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -386,6 +386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20200305T114329Z" creationid="luke" creationdate="20200305T113908Z">
         <seg>&lt;f0&gt;Purtroppo&lt;/f0&gt;, &lt;f1&gt;molti utenti non utilizzano la formattazione condizionale all'interno dei loro lavori&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Use &lt;/f0&gt;&lt;f1&gt;sub-menu&lt;/f1&gt;&lt;f2&gt; items &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Format&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;►&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;Conditional&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;►&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;(Condition; Color scale; Data bar; &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;i&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;con set; Date)&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200419T171416Z" creationid="luke" creationdate="20200419T171416Z">
+        <seg>&lt;f0&gt;Use &lt;/f0&gt;&lt;f1&gt;sub-menu&lt;/f1&gt;&lt;f2&gt; items &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Format&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;►&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;Conditional&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;►&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;(Condition; Color scale; Data bar; &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;i&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;con set; Date)&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -512,8 +520,8 @@
       <tuv lang="EN">
         <seg>Creat&lt;f0&gt;ing&lt;/f0&gt; of conditional formatting</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200414T154503Z" creationid="luke" creationdate="20200414T154432Z">
-        <seg>aaaaaaaaaaaCreat&lt;f0&gt;ing&lt;/f0&gt; of conditional formatting</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200419T171412Z" creationid="luke" creationdate="20200414T154432Z">
+        <seg>Creazione&lt;f0&gt;&lt;/f0&gt; di una formattazione condizionale</seg>
       </tuv>
     </tu>
     <tu>
@@ -560,8 +568,8 @@
       <tuv lang="EN">
         <seg>How to create, change and delete conditional formatting</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200414T154429Z" creationid="luke" creationdate="20200303T080756Z">
-        <seg>Creare, modificare ed eliminare formattazioni condizionali</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200419T171247Z" creationid="luke" creationdate="20200303T080756Z">
+        <seg>Creazione, modifica ed eliminazione delle formattazioni condizionali</seg>
       </tuv>
     </tu>
     <tu>
