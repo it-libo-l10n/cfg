@@ -328,8 +328,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Make sure, that item &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Data&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;►&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Calculate&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;►&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;AutoCalculate&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; is &lt;/f11&gt;&lt;f12&gt;active.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200414T112318Z" creationid="luke" creationdate="20200414T101846Z">
-        <seg>&lt;f0&gt;Assicuratevi che la voce &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Dati&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;►&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Calcola&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;►&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;Calcolo automatico&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; sia &lt;/f11&gt;&lt;f12&gt;attiva.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200420T095835Z" creationid="luke" creationdate="20200414T101846Z">
+        <seg>&lt;f0&gt;Assicuratevi che la voce &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Dati &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;►&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; Calcola &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;►&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt; Calcolo automatico&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; sia &lt;/f11&gt;&lt;f12&gt;attiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To create conditions follow the next steps&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200420T095719Z" creationid="luke" creationdate="20200420T095719Z">
+        <seg>&lt;f0&gt;To create conditions follow the next steps&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Unfortunately&lt;/f0&gt;, &lt;f1&gt;many users don’t use conditional formatting in their work&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20200305T114329Z" creationid="luke" creationdate="20200305T113908Z">
@@ -400,8 +408,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Use &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Add button&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Manage Conditional Formatting dialog&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; from &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Format&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;►&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; Conditional&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;►&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; Manage &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;menu&lt;/f19&gt;&lt;/f18&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200420T085732Z" creationid="luke" creationdate="20200419T203755Z">
-        <seg>aaaa&lt;f0&gt;Use &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Add button&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Manage Conditional Formatting dialog&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; from &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Format&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;►&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; Conditional&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;►&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; Manage &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;menu&lt;/f19&gt;&lt;/f18&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200420T095717Z" creationid="luke" creationdate="20200419T203755Z">
+        <seg>&lt;f0&gt;Usate il pulsante &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Aggiungi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; all'interno della finestra di dialogo&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Gestisci formattazione condizionale&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;, raggiungibile dal menu &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Formato &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;►&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; Condizionale &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;►&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; Gestisci&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;&lt;/f19&gt;&lt;/f18&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -416,16 +424,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Use &lt;/f0&gt;&lt;f1&gt;sub-menu&lt;/f1&gt;&lt;f2&gt; items &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Format&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;►&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;Conditional&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;►&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;(Condition; Color scale; Data bar; &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;i&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;con set; Date)&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200419T203745Z" creationid="luke" creationdate="20200419T171416Z">
-        <seg>&lt;f0&gt;Usate una voce del &lt;/f0&gt;&lt;f1&gt;sottomenu&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Formato&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;►&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;Condizionale&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;►&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;(Condizione; Gradiente; Barra dati; &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;Gruppo &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;di icone; Data)&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200420T095800Z" creationid="luke" creationdate="20200419T171416Z">
+        <seg>&lt;f0&gt;Usate una voce del &lt;/f0&gt;&lt;f1&gt;sottomenu&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Formato &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;►&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; Condizionale &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;►&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt; (Condizione; Gradiente; Barra dati; &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;Gruppo &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;di icone; Data)&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Whatever the used &lt;/f0&gt;&lt;f1&gt;method, &lt;/f1&gt;&lt;f2&gt;it opens&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Conditional Formatting for &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;…&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;dialog&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;which&lt;/f13&gt;&lt;f14&gt; allows to customize conditional formatting&lt;/f14&gt;&lt;f15&gt;.&lt;/f15&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200420T085733Z" creationid="luke" creationdate="20200420T085733Z">
-        <seg>&lt;f0&gt;Whatever the used &lt;/f0&gt;&lt;f1&gt;method, &lt;/f1&gt;&lt;f2&gt;it opens&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Conditional Formatting for &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;…&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;dialog&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;which&lt;/f13&gt;&lt;f14&gt; allows to customize conditional formatting&lt;/f14&gt;&lt;f15&gt;.&lt;/f15&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200420T095719Z" creationid="luke" creationdate="20200420T085733Z">
+        <seg>aaaa&lt;f0&gt;Whatever the used &lt;/f0&gt;&lt;f1&gt;method, &lt;/f1&gt;&lt;f2&gt;it opens&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Conditional Formatting for &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;…&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;dialog&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;which&lt;/f13&gt;&lt;f14&gt; allows to customize conditional formatting&lt;/f14&gt;&lt;f15&gt;.&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
