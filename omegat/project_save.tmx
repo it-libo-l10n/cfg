@@ -392,8 +392,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;To create conditions follow the next steps&lt;/f0&gt;:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200420T111719Z" creationid="luke" creationdate="20200420T095719Z">
-        <seg>aaaa&lt;f0&gt;To create conditions follow the next steps&lt;/f0&gt;:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200424T120832Z" creationid="luke" creationdate="20200420T095719Z">
+        <seg>&lt;f0&gt;Per creare le condizioni seguite questi passaggi&lt;/f0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select cell or cell range (during customizing of condition&lt;f0&gt;s&lt;/f0&gt; it can be change&lt;f1&gt;d&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200424T120835Z" creationid="luke" creationdate="20200424T120835Z">
+        <seg>Select cell or cell range (during customizing of condition&lt;f0&gt;s&lt;/f0&gt; it can be change&lt;f1&gt;d&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Several conditions for one cell range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20200305T080205Z" creationid="luke" creationdate="20200303T100151Z">
@@ -688,8 +696,8 @@
       <tuv lang="EN">
         <seg>Think about &lt;f0&gt;the &lt;/f0&gt;result &lt;f1&gt;you expect &lt;/f1&gt;after using conditional formatting and &lt;f2&gt;which&lt;/f2&gt; type of condition you will use.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200420T111720Z" creationid="luke" creationdate="20200420T111720Z">
-        <seg>Think about &lt;f0&gt;the &lt;/f0&gt;result &lt;f1&gt;you expect &lt;/f1&gt;after using conditional formatting and &lt;f2&gt;which&lt;/f2&gt; type of condition you will use.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200424T120835Z" creationid="luke" creationdate="20200420T111720Z">
+        <seg>aaaaThink about &lt;f0&gt;the &lt;/f0&gt;result &lt;f1&gt;you expect &lt;/f1&gt;after using conditional formatting and &lt;f2&gt;which&lt;/f2&gt; type of condition you will use.</seg>
       </tuv>
     </tu>
     <tu>
