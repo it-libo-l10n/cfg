@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Open &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Conditional Formatting for … &lt;s3/&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;&lt;f5&gt;dialog&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;using any method as show&lt;/f8&gt;&lt;f9&gt;n&lt;/f9&gt;&lt;f10&gt; above.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200427T141209Z" creationid="luke" creationdate="20200427T141209Z">
+        <seg>&lt;f0&gt;Open &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Conditional Formatting for … &lt;s3/&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;&lt;f5&gt;dialog&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;using any method as show&lt;/f8&gt;&lt;f9&gt;n&lt;/f9&gt;&lt;f10&gt; above.&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Options of text view: vertical and horizontal text alignment in cell&lt;/f0&gt;, &lt;f1&gt;rotation of text in cell, text color&lt;/f1&gt;, &lt;f2&gt;text effects&lt;/f2&gt;, &lt;f3&gt;shadow of text&lt;/f3&gt;, &lt;f4&gt;font and font style (bold, italic)&lt;/f4&gt;;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20200306T080004Z" creationid="luke" creationdate="20200305T160001Z">
@@ -672,8 +680,8 @@
       <tuv lang="EN">
         <seg>Select cell or cell range (during customizing of condition&lt;f0&gt;s&lt;/f0&gt; it can be change&lt;f1&gt;d&lt;/f1&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200424T120835Z" creationid="luke" creationdate="20200424T120835Z">
-        <seg>Select cell or cell range (during customizing of condition&lt;f0&gt;s&lt;/f0&gt; it can be change&lt;f1&gt;d&lt;/f1&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200427T141209Z" creationid="luke" creationdate="20200424T120835Z">
+        <seg>aaaaSelezionate la cella o l'intervallo di celle (durante la personalizzazione delle condizioni&lt;f0&gt;&lt;/f0&gt; potrete modificarlo&lt;f1&gt;&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -696,8 +704,8 @@
       <tuv lang="EN">
         <seg>Think about &lt;f0&gt;the &lt;/f0&gt;result &lt;f1&gt;you expect &lt;/f1&gt;after using conditional formatting and &lt;f2&gt;which&lt;/f2&gt; type of condition you will use.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200424T120835Z" creationid="luke" creationdate="20200420T111720Z">
-        <seg>aaaaThink about &lt;f0&gt;the &lt;/f0&gt;result &lt;f1&gt;you expect &lt;/f1&gt;after using conditional formatting and &lt;f2&gt;which&lt;/f2&gt; type of condition you will use.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200427T141200Z" creationid="luke" creationdate="20200420T111720Z">
+        <seg>Pensate &lt;f0&gt;al &lt;/f0&gt;risultato &lt;f1&gt;che volete ottenere &lt;/f1&gt;dall'applicazione della formattazione condizionale e &lt;f2&gt;al&lt;/f2&gt; tipo di condizione da utilizzare.</seg>
       </tuv>
     </tu>
     <tu>
