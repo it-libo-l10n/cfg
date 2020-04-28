@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Illustration&lt;/f0&gt; &lt;seq1&gt;3.1&lt;/seq1&gt;: &lt;f2&gt;Drop-down widget Conditional on Formatting toolbar&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200428T134515Z" creationid="luke" creationdate="20200428T134515Z">
+        <seg>&lt;f0&gt;Illustration&lt;/f0&gt; &lt;seq1&gt;3.1&lt;/seq1&gt;: &lt;f2&gt;Drop-down widget Conditional on Formatting toolbar&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;It is requested that reader already knows how to work with computer and with spreadsheets&lt;/f0&gt; (&lt;f1&gt;LibreOffice &lt;/f1&gt;Calc, &lt;f2&gt;MS &lt;/f2&gt;Excel, &lt;f3&gt;Gnumeric or any one else&lt;/f3&gt;), &lt;f4&gt;knows&lt;/f4&gt; &lt;f5&gt;terms “Main menu”, “Sheet”, “Cell”, “Range of cells”, “Address of cells”, etc.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20200305T101437Z" creationid="luke" creationdate="20200305T101437Z">
@@ -344,8 +352,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Open &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Conditional Formatting for … &lt;s3/&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;&lt;f5&gt;dialog&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;using any method as show&lt;/f8&gt;&lt;f9&gt;n&lt;/f9&gt;&lt;f10&gt; above.&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200427T141209Z" creationid="luke" creationdate="20200427T141209Z">
-        <seg>&lt;f0&gt;Open &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Conditional Formatting for … &lt;s3/&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;&lt;f5&gt;dialog&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;using any method as show&lt;/f8&gt;&lt;f9&gt;n&lt;/f9&gt;&lt;f10&gt; above.&lt;/f10&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200428T134515Z" creationid="luke" creationdate="20200427T141209Z">
+        <seg>aaaa&lt;f0&gt;Open &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Conditional Formatting for … &lt;s3/&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;&lt;f5&gt;dialog&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;using any method as show&lt;/f8&gt;&lt;f9&gt;n&lt;/f9&gt;&lt;f10&gt; above.&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -680,8 +688,8 @@
       <tuv lang="EN">
         <seg>Select cell or cell range (during customizing of condition&lt;f0&gt;s&lt;/f0&gt; it can be change&lt;f1&gt;d&lt;/f1&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200427T141209Z" creationid="luke" creationdate="20200424T120835Z">
-        <seg>aaaaSelezionate la cella o l'intervallo di celle (durante la personalizzazione delle condizioni&lt;f0&gt;&lt;/f0&gt; potrete modificarlo&lt;f1&gt;&lt;/f1&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200428T134513Z" creationid="luke" creationdate="20200424T120835Z">
+        <seg>Selezionate la cella o l'intervallo di celle (durante la personalizzazione delle condizioni&lt;f0&gt;&lt;/f0&gt; è possibile modificarlo&lt;f1&gt;&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
