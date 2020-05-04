@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Depending on the selected category set up options for conditional formatting&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200504T143018Z" creationid="luke" creationdate="20200504T143018Z">
+        <seg>&lt;f0&gt;Depending on the selected category set up options for conditional formatting&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Formatting of cells is used in order to highlight &lt;s1/&gt;important information in spreadsheet and to ease perception&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20200306T091024Z" creationid="luke" creationdate="20200306T080006Z">
@@ -320,8 +328,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Illustration&lt;/f0&gt; &lt;seq1&gt;3.1&lt;/seq1&gt;: &lt;f2&gt;Drop-down widget Conditional on Formatting toolbar&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200428T134515Z" creationid="luke" creationdate="20200428T134515Z">
-        <seg>&lt;f0&gt;Illustration&lt;/f0&gt; &lt;seq1&gt;3.1&lt;/seq1&gt;: &lt;f2&gt;Drop-down widget Conditional on Formatting toolbar&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200504T143016Z" creationid="luke" creationdate="20200428T134515Z">
+        <seg>&lt;f0&gt;Figura&lt;/f0&gt; &lt;seq1&gt;3.1&lt;/seq1&gt;: &lt;f2&gt;elenco a comparsa dell'icona Condizionale nella barra degli strumenti Formattazione&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;In &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Conditional Formatting for … &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;dialog&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;select for &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Condition 1&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; one of the available category of conditions &lt;/f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;All cells&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;,&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Cell value is&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;, &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Formula is&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; &lt;/f21&gt;&lt;f22&gt;or&lt;/f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;Date is&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;).&lt;/f26&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200504T143018Z" creationid="luke" creationdate="20200504T143018Z">
+        <seg>aaaa&lt;f0&gt;In &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Conditional Formatting for … &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;dialog&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;select for &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Condition 1&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; one of the available category of conditions &lt;/f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;All cells&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;,&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Cell value is&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;, &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Formula is&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; &lt;/f21&gt;&lt;f22&gt;or&lt;/f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;Date is&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;).&lt;/f26&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -352,8 +368,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Open &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Conditional Formatting for … &lt;s3/&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;&lt;f5&gt;dialog&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;using any method as show&lt;/f8&gt;&lt;f9&gt;n&lt;/f9&gt;&lt;f10&gt; above.&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200428T134515Z" creationid="luke" creationdate="20200427T141209Z">
-        <seg>aaaa&lt;f0&gt;Open &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Conditional Formatting for … &lt;s3/&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;&lt;f5&gt;dialog&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;using any method as show&lt;/f8&gt;&lt;f9&gt;n&lt;/f9&gt;&lt;f10&gt; above.&lt;/f10&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200504T142931Z" creationid="luke" creationdate="20200427T141209Z">
+        <seg>&lt;f0&gt;Aprite la finestra di dialogo &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Formattazione condizionale per … &lt;s3/&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;usando uno qualsiasi dei metodi illustrati &lt;/f8&gt;&lt;f9&gt;in&lt;/f9&gt;&lt;f10&gt; precedenza.&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
