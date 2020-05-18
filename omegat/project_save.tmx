@@ -310,10 +310,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Bottom part of the dialog has field Range, that allows to change the cell range of your conditional formatting&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200518T104035Z" creationid="luke" creationdate="20200518T104035Z">
+        <seg>&lt;f0&gt;Bottom part of the dialog has field Range, that allows to change the cell range of your conditional formatting&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Depending on the selected category set up options for conditional formatting&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200504T143018Z" creationid="luke" creationdate="20200504T143018Z">
-        <seg>&lt;f0&gt;Depending on the selected category set up options for conditional formatting&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200518T103841Z" creationid="luke" creationdate="20200504T143018Z">
+        <seg>&lt;f0&gt;A seconda della categoria selezionata, impostate le opzioni per la formattazione condizionale&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20200306T091024Z" creationid="luke" creationdate="20200306T080006Z">
         <seg>&lt;f0&gt;La formattazione delle celle è utilizzata per evidenziare le &lt;s1/&gt;informazioni importanti all'interno del foglio elettronico e agevolarne la percezione&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If necessary, you can add several conditions for the same cell or cell range, click the Add and repeat steps &lt;/f0&gt;4...&lt;f1&gt;6&lt;/f1&gt; &lt;f2&gt;as &lt;/f2&gt;many times as &lt;f3&gt;you need&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200518T104034Z" creationid="luke" creationdate="20200518T104034Z">
+        <seg>aaaa&lt;f0&gt;If necessary, you can add several conditions for the same cell or cell range, click the Add and repeat steps &lt;/f0&gt;4...&lt;f1&gt;6&lt;/f1&gt; &lt;f2&gt;as &lt;/f2&gt;many times as &lt;f3&gt;you need&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -336,8 +352,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Conditional Formatting for … &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;dialog&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;select for &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Condition 1&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; one of the available category of conditions &lt;/f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;All cells&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;,&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Cell value is&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;, &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Formula is&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; &lt;/f21&gt;&lt;f22&gt;or&lt;/f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;Date is&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;).&lt;/f26&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200504T143018Z" creationid="luke" creationdate="20200504T143018Z">
-        <seg>aaaa&lt;f0&gt;In &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Conditional Formatting for … &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;dialog&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;select for &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Condition 1&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; one of the available category of conditions &lt;/f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;All cells&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;,&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Cell value is&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;, &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Formula is&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; &lt;/f21&gt;&lt;f22&gt;or&lt;/f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;Date is&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;).&lt;/f26&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200518T103716Z" creationid="luke" creationdate="20200504T143018Z">
+        <seg>&lt;f0&gt;Nella finestra di dialogo &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Formattazione condizionale per … &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;selezionate per la &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Condizione 1&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; una delle categorie di condizioni disponibili &lt;/f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;Tutte le celle&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;,&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Il valore della cella è&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;, &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;La formula è&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;, &lt;/f21&gt;&lt;f22&gt;oppure&lt;/f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;La data è&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;).&lt;/f26&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -474,6 +490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20200305T094849Z" creationid="luke" creationdate="20200305T092736Z">
         <seg>&lt;f0&gt;Durante la scrittura di questa guida sono emersi alcuni bug nell'interfaccia grafica e nell'esecuzione della formattazione condizionale presente nella versione 6.0.3 di &lt;/f0&gt;LibreOffice&lt;f1&gt; Calc&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;More information will be in the following chapters.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200518T104031Z" creationid="luke" creationdate="20200518T104031Z">
+        <seg>&lt;f1&gt;Nei capitoli successivi sono presenti maggiori informazioni al riguardo.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
