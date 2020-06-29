@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;After &lt;/f0&gt;&lt;f1&gt;finishing&lt;/f1&gt;&lt;f2&gt; conditional customiz&lt;/f2&gt;&lt;f3&gt;ation&lt;/f3&gt;&lt;f4&gt;, &lt;/f4&gt;&lt;f5&gt;click the&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;ОК &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;button&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;to close &lt;/f12&gt;&lt;f13&gt;the&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;Conditional Formatting for … &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;dialo&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;g&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;.&lt;/f21&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200629T140826Z" creationid="luke" creationdate="20200629T140826Z">
+        <seg>&lt;f0&gt;After &lt;/f0&gt;&lt;f1&gt;finishing&lt;/f1&gt;&lt;f2&gt; conditional customiz&lt;/f2&gt;&lt;f3&gt;ation&lt;/f3&gt;&lt;f4&gt;, &lt;/f4&gt;&lt;f5&gt;click the&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;ОК &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;button&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;to close &lt;/f12&gt;&lt;f13&gt;the&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;Conditional Formatting for … &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;dialo&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;g&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;.&lt;/f21&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;All name of menu, toolbars, tooltips, dialogue, button and any other elements of GUI are from&lt;/f0&gt; LibreOffice &lt;f1&gt;Calc &lt;/f1&gt;6.0.3.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20200305T092731Z" creationid="luke" creationdate="20200303T104208Z">
@@ -312,8 +320,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Bottom part of the dialog has field Range, that allows to change the cell range of your conditional formatting&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200518T104035Z" creationid="luke" creationdate="20200518T104035Z">
-        <seg>&lt;f0&gt;Bottom part of the dialog has field Range, that allows to change the cell range of your conditional formatting&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200629T140825Z" creationid="luke" creationdate="20200518T104035Z">
+        <seg>aaaa&lt;f0&gt;Bottom part of the dialog has field Range, that allows to change the cell range of your conditional formatting&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -336,8 +344,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If necessary, you can add several conditions for the same cell or cell range, click the Add and repeat steps &lt;/f0&gt;4...&lt;f1&gt;6&lt;/f1&gt; &lt;f2&gt;as &lt;/f2&gt;many times as &lt;f3&gt;you need&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200629T132632Z" creationid="luke" creationdate="20200518T104034Z">
-        <seg>aaaa&lt;f0&gt;Se necessario, potete aggiungere più condizioni per la stessa cella o intervallo di celle, fate clic sul pulsante Aggiungi e ripetete i  passaggi da &lt;/f0&gt;4 a &lt;f1&gt;6&lt;/f1&gt; &lt;f2&gt;quante &lt;/f2&gt;volte &lt;f3&gt;vi servono&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200629T140824Z" creationid="luke" creationdate="20200518T104034Z">
+        <seg>&lt;f0&gt;Se necessario, potete aggiungere più condizioni per la stessa cella o intervallo di celle, facendo clic sul pulsante Aggiungi e ripetendo i passaggi da &lt;/f0&gt;4 a &lt;f1&gt;6&lt;/f1&gt; per una o più volte, &lt;f2&gt;fino a ottenere &lt;/f2&gt;le impostazioni &lt;f3&gt;desiderate&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
