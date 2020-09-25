@@ -352,8 +352,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If you opened &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Conditional Formatting for … &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;dialog &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;by&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;using &lt;/f9&gt;&lt;f10&gt;the&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;Add&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; button in &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;Manage Conditional Formatting&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;dialog&lt;/f18&gt;&lt;f19&gt; then &lt;/f19&gt;&lt;f20&gt;click&lt;/f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;f22&gt;the&lt;/f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;OK&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;button &lt;/f27&gt;&lt;f28&gt;to close it too.&lt;/f28&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200729T095748Z" creationid="luke" creationdate="20200629T150520Z">
-        <seg>aaaa&lt;f0&gt;If you opened &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Conditional Formatting for … &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;dialog &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;by&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;using &lt;/f9&gt;&lt;f10&gt;the&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;Add&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; button in &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;Manage Conditional Formatting&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;dialog&lt;/f18&gt;&lt;f19&gt; then &lt;/f19&gt;&lt;f20&gt;click&lt;/f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;f22&gt;the&lt;/f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;OK&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;button &lt;/f27&gt;&lt;f28&gt;to close it too.&lt;/f28&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200925T133430Z" creationid="luke" creationdate="20200629T150520Z">
+        <seg>&lt;f0&gt;Se avete aperto la finestra di dialogo &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Formattazione condizionale per … &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;tramite &lt;/f9&gt;&lt;f10&gt;il pulsante&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;Aggiungi&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; presente nella finestra di dialogo &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;Gestisci formattazione condizionale&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;/f17&gt;&lt;f18&gt;,&lt;/f18&gt;&lt;f19&gt; allora &lt;/f19&gt;&lt;f20&gt;fate clic&lt;/f20&gt;&lt;f21&gt; &lt;/f21&gt;&lt;f22&gt;sul pulsante&lt;/f22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;OK&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;per &lt;/f27&gt;&lt;f28&gt;chiudere anche quest'ultima finestra.&lt;/f28&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,6 +414,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Format&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;►&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Conditional&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;►&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;Manage&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; in main menu to open &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;Manage Conditional Formatting &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;dialog&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200925T135152Z" creationid="luke" creationdate="20200925T134833Z">
+        <seg>aaaaaaaaaaaaaaaaa&lt;f0&gt;Select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Format&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;►&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Conditional&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;►&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;Manage&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; in main menu to open &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;Manage Conditional Formatting &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;dialog&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Select the cell range, that you want to change&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200925T134834Z" creationid="luke" creationdate="20200925T134834Z">
+        <seg>&lt;f0&gt;Select the cell range, that you want to change&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Showing, color and type of cell borders&lt;/f0&gt;;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20200306T075301Z" creationid="luke" creationdate="20200305T155018Z">
@@ -442,6 +458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20200305T113714Z" creationid="luke" creationdate="20200305T113434Z">
         <seg>&lt;f0&gt;Questa guida è rilasciata sotto licenza &lt;/f0&gt;Creative Commons Attribution ShareAlike &lt;f1&gt;versione 4&lt;/f1&gt;.0 &lt;f2&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To change the existing conditional formatting follow next steps&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200925T134020Z" creationid="luke" creationdate="20200925T134020Z">
+        <seg>&lt;f0&gt;Per modificare una formattazione condizionale esistente seguite questi passaggi&lt;/f0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -688,8 +712,16 @@
       <tuv lang="EN">
         <seg>Illustration &lt;seq0&gt;2.1&lt;/seq0&gt;: Formatting example</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200306T132638Z" creationid="luke" creationdate="20200306T111250Z">
-        <seg>Illustrazione &lt;seq0&gt;2.1&lt;/seq0&gt;: esempio di formattazione</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200925T134921Z" creationid="luke" creationdate="20200306T111250Z">
+        <seg>Figura &lt;seq0&gt;2.1&lt;/seq0&gt;: esempio di formattazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Illustration &lt;seq0&gt;3.2&lt;/seq0&gt;: Conditional Formatting for... dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200925T134831Z" creationid="luke" creationdate="20200925T134054Z">
+        <seg>Figura &lt;seq0&gt;3.2&lt;/seq0&gt;: finestra di dialogo Formattazione condizionale per ...</seg>
       </tuv>
     </tu>
     <tu>
